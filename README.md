@@ -1,5 +1,5 @@
 ## Hi, I’m Benjamin Garrard 👋  
-### Systems Engineer • Founder • DevRel • Platform Builder
+### Systems Engineer • Founder • Platform Builder
 
 I build **developer-facing platforms**, **AI-powered systems**, and **production-grade tooling** that scale from prototype to real users.  
 My focus is on **shipping**, **clarity**, and **closing the loop** between developers, users, and systems.
