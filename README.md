@@ -8,9 +8,7 @@ My focus is on **shipping**, **clarity**, and **closing the loop** between devel
 
 ### 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-B2Gdevs-000?style=flat&logo=github&logoColor=white)](https://github.com/B2Gdevs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bengarrard.com-111?style=flat&logo=vercel&logoColor=white)](https://bengarrard.com)
-[![Magicborn](https://img.shields.io/badge/Magicborn%20Studios-111?style=flat&logo=unrealengine&logoColor=white)](https://magicbornstudios.com)
 
 ---
 
