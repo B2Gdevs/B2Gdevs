@@ -1,3 +1,14 @@
+<img width="1900" height="943" alt="image" src="https://github.com/user-attachments/assets/815ca67c-b795-408c-b518-2c67f9169624" />
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/74f88932-d892-4ad6-93e6-e157672ff15d" />
+<img width="1908" height="944" alt="image" src="https://github.com/user-attachments/assets/57d7af30-5644-4261-934e-d5f78d3d1a1e" />
+<img width="1909" height="932" alt="image" src="https://github.com/user-attachments/assets/e7d5d718-9885-454f-9518-02669327fcd6" />
+<img width="1913" height="944" alt="image" src="https://github.com/user-attachments/assets/ece878ea-cd0c-4727-a06d-f4b4715ab4ef" />
+
+
+
+
+
+
 ## Hi, I’m Benjamin Garrard 👋  
 ### Systems Engineer • Founder • Platform Builder
 
